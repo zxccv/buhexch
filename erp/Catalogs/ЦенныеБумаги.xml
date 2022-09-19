@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="437e5309-86de-457c-aec8-3238b8699807">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ЦенныеБумаги" category="Object">
+				<xr:TypeId>23ac2b93-cf28-4a26-b34f-01d24208881c</xr:TypeId>
+				<xr:ValueId>60f6e582-9e67-479a-af6c-930ac74128b8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ЦенныеБумаги" category="Ref">
+				<xr:TypeId>bfb09165-0016-4f27-aba4-31386942355d</xr:TypeId>
+				<xr:ValueId>261c46d2-cbb9-40e6-8e8a-0bc28f60ab1a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ЦенныеБумаги" category="Selection">
+				<xr:TypeId>48276b2f-6cb6-48ad-9854-118cedbc8e1f</xr:TypeId>
+				<xr:ValueId>516aaef8-88c3-44fa-bbd2-1a4c0e1df071</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ЦенныеБумаги" category="List">
+				<xr:TypeId>8bc79023-6ec9-484a-bc71-62723ebdcd30</xr:TypeId>
+				<xr:ValueId>01dfa0b0-6038-49f0-8710-7a43ac35f398</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ЦенныеБумаги" category="Manager">
+				<xr:TypeId>f34b77b0-89ad-4d31-9784-f2f480f6e3f6</xr:TypeId>
+				<xr:ValueId>3060caec-4e5a-4539-bc4e-d7603f2f6aa1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ЦенныеБумаги</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>8d11a6fd-b258-4c8f-a0f9-29047d7c6cf2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

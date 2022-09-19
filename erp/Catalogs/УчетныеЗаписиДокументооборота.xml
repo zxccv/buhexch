@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Catalog uuid="a0f7a414-2cda-4366-a9dd-bee9bbe83c22">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.УчетныеЗаписиДокументооборота" category="Object">
+				<xr:TypeId>d3b3b860-0546-4b25-8b51-7c90e0794b6e</xr:TypeId>
+				<xr:ValueId>2fe493b6-bbfe-4cce-85f2-c1fe91efa3a9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.УчетныеЗаписиДокументооборота" category="Ref">
+				<xr:TypeId>f1ab1d71-84b4-49bd-9ad7-a826317f7222</xr:TypeId>
+				<xr:ValueId>8defd917-2de8-4a48-9043-615d6596d647</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.УчетныеЗаписиДокументооборота" category="Selection">
+				<xr:TypeId>3effc649-ee1c-4fba-b03a-c5421f35881a</xr:TypeId>
+				<xr:ValueId>13a6865d-f787-44ab-a9b9-a414a9abe96f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.УчетныеЗаписиДокументооборота" category="List">
+				<xr:TypeId>73614669-ddbc-463a-ae25-daca4b4aa6f6</xr:TypeId>
+				<xr:ValueId>0ef13cc4-c220-4aea-acfe-5cea468f5848</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.УчетныеЗаписиДокументооборота" category="Manager">
+				<xr:TypeId>65d155a9-686f-41e7-a44c-def19b15c220</xr:TypeId>
+				<xr:ValueId>e73162c1-70f9-45d1-af01-624611699c8c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>УчетныеЗаписиДокументооборота</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>92ffd855-6f4b-4e2b-a421-c8b4c23ac557</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

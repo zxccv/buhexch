@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Document uuid="ae72910d-a52e-4b3c-9d12-6c7f1116c72c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОперацияПоПлатежнойКарте" category="Object">
+				<xr:TypeId>83aea3de-b7e2-4c6f-b0c1-a4009f180835</xr:TypeId>
+				<xr:ValueId>60bf814b-aa47-4e58-8031-5b5b3f0409f2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОперацияПоПлатежнойКарте" category="Ref">
+				<xr:TypeId>e723dd39-9acd-41f2-abc4-f7cc27eb1980</xr:TypeId>
+				<xr:ValueId>c352d7ca-27dc-4a81-815b-a728da06ff68</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОперацияПоПлатежнойКарте" category="Selection">
+				<xr:TypeId>3536e367-6cb2-4ac9-82af-780badb52896</xr:TypeId>
+				<xr:ValueId>374c80eb-bb3d-415c-aae1-640538309b92</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОперацияПоПлатежнойКарте" category="List">
+				<xr:TypeId>c512b82b-3da4-4369-9fd4-2fbda01c853f</xr:TypeId>
+				<xr:ValueId>83d311dc-77d3-4a7d-a0e7-9aca142e2efd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОперацияПоПлатежнойКарте" category="Manager">
+				<xr:TypeId>c46dad82-aa74-4eef-a77f-f6e0805fcfaa</xr:TypeId>
+				<xr:ValueId>07621f2e-7f95-4799-ba0d-faffb4742c64</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОперацияПоПлатежнойКарте</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>157d7cf9-7e60-4b74-be70-949b478d9d07</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

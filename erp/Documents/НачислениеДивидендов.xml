@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<Document uuid="2517cdb1-d689-401b-b29a-990bc95a4f98">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.НачислениеДивидендов" category="Object">
+				<xr:TypeId>ab9d5c10-ba16-44a2-8012-53887472cf70</xr:TypeId>
+				<xr:ValueId>cd4181b7-3690-46dd-9b86-569548928683</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.НачислениеДивидендов" category="Ref">
+				<xr:TypeId>9463b478-61e1-4053-99d2-28b8ac0e2975</xr:TypeId>
+				<xr:ValueId>67c1bd2a-a6bc-4480-98c7-eb57bbe2318e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.НачислениеДивидендов" category="Selection">
+				<xr:TypeId>403b5fad-1ef8-49b3-a21d-2c18dac55442</xr:TypeId>
+				<xr:ValueId>a1c9c3de-aab5-4652-8b4c-254475ac6fca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.НачислениеДивидендов" category="List">
+				<xr:TypeId>0aa404bb-365a-4245-8aa8-27da3a8335fd</xr:TypeId>
+				<xr:ValueId>a525574f-825e-413e-8c49-c09618d373dc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.НачислениеДивидендов" category="Manager">
+				<xr:TypeId>4cb6f303-d20f-4b55-a16a-b0b9617e44ba</xr:TypeId>
+				<xr:ValueId>4f8b7450-65c0-450c-8c4e-065611c912a7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>НачислениеДивидендов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>3eb40660-b37a-46ff-b2d5-cb5e12a1ff50</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
