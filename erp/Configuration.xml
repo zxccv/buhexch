@@ -109,6 +109,7 @@
 			<Document>ПриобретениеТоваровУслуг</Document>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>СписаниеНедостачТоваров</Document>
+			<Document>ВозвратТоваровПоставщику</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
