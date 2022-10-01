@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ExchangePlanContent xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
 	<Item>
+		<Metadata>Document.ВозвратТоваровПоставщику</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.СтруктураПредприятия</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -154,10 +158,6 @@
 	</Item>
 	<ExtensionProperty>
 		<Item>
-			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
 			<Metadata>Catalog.Пользователи</Metadata>
 			<State>Modify</State>
 		</Item>
@@ -166,11 +166,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.НематериальныеАктивы</Metadata>
+			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.РеализацияТоваровУслуг</Metadata>
+			<Metadata>Catalog.Организации</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -186,15 +186,19 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.Организации</Metadata>
+			<Metadata>Catalog.НематериальныеАктивы</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.СтруктураПредприятия</Metadata>
+			<Metadata>Document.РеализацияТоваровУслуг</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.СтруктураПредприятия</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -234,7 +238,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.Номенклатура</Metadata>
+			<Metadata>Document.НачислениеДивидендов</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -242,7 +246,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.НачислениеДивидендов</Metadata>
+			<Metadata>Catalog.Номенклатура</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -258,11 +262,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.СерверыДокументооборота</Metadata>
+			<Metadata>Catalog.ЦенныеБумаги</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.ЦенныеБумаги</Metadata>
+			<Metadata>Catalog.СерверыДокументооборота</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -286,15 +290,19 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.ВозвратТоваровПоставщику</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>Catalog.СтраныМира</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ОперацияПоПлатежнойКарте</Metadata>
+			<Metadata>Document.ОприходованиеИзлишковТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ОприходованиеИзлишковТоваров</Metadata>
+			<Metadata>Document.ОперацияПоПлатежнойКарте</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
