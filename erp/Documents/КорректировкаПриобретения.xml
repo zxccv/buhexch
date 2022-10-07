@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="73b7b1ad-ef44-4490-97f6-807856cf33f3">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КорректировкаПриобретения" category="Object">
+				<xr:TypeId>ff65e378-66e9-4a03-a8e5-6cf440876d62</xr:TypeId>
+				<xr:ValueId>67b33af8-8ae2-4520-8736-6c3d60c2adcb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КорректировкаПриобретения" category="Ref">
+				<xr:TypeId>c02f321b-d08e-49b8-9f54-801022141e98</xr:TypeId>
+				<xr:ValueId>89f1edd3-364e-41df-bc37-fa66253f8e54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КорректировкаПриобретения" category="Selection">
+				<xr:TypeId>e5475259-7f76-4de9-8761-ae474406b2b0</xr:TypeId>
+				<xr:ValueId>8f98ef0d-30e0-4736-8dfa-61806540229b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КорректировкаПриобретения" category="List">
+				<xr:TypeId>b91a2a4f-ec88-44b9-83d3-70fe46c8bae7</xr:TypeId>
+				<xr:ValueId>2239e062-20d1-4263-b899-405fa6b72c97</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КорректировкаПриобретения" category="Manager">
+				<xr:TypeId>ee992f1c-f180-48b9-b3d3-5240d7f7c84b</xr:TypeId>
+				<xr:ValueId>5f3541b0-3342-4ce9-85c6-9ab2865c5a7e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КорректировкаПриобретения</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>7b04ebc4-7995-4cc8-abb1-dce1cca4ebd3</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
