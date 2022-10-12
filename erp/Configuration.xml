@@ -111,6 +111,7 @@
 			<Document>СписаниеНедостачТоваров</Document>
 			<Document>ВозвратТоваровПоставщику</Document>
 			<Document>КорректировкаПриобретения</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
