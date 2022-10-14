@@ -112,6 +112,7 @@
 			<Document>ВозвратТоваровПоставщику</Document>
 			<Document>КорректировкаПриобретения</Document>
 			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>ПоступлениеБезналичныхДенежныхСредств</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
