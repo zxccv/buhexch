@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="8d03bcb4-d27c-45c6-b06c-bf7cad947847">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПоступлениеБезналичныхДенежныхСредств" category="Object">
+				<xr:TypeId>96151da2-d446-4fc2-bb52-47cc27c2ee8b</xr:TypeId>
+				<xr:ValueId>f6f52da0-b9e3-4a90-993c-9a6f9904d74c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПоступлениеБезналичныхДенежныхСредств" category="Ref">
+				<xr:TypeId>9081b559-a8b4-4724-ab9a-2fef4cbadd7f</xr:TypeId>
+				<xr:ValueId>898b656c-b190-407c-9612-46781008c43e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеБезналичныхДенежныхСредств" category="Selection">
+				<xr:TypeId>c6dbc6ea-765d-4b2a-93d0-57859694c342</xr:TypeId>
+				<xr:ValueId>cb49fd78-0543-4813-8a80-f57f362b62df</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПоступлениеБезналичныхДенежныхСредств" category="List">
+				<xr:TypeId>f2a6e44a-9e33-490e-9653-e48f42a5e7f4</xr:TypeId>
+				<xr:ValueId>4699f96c-8498-4f35-b8c8-b7ab0b074450</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПоступлениеБезналичныхДенежныхСредств" category="Manager">
+				<xr:TypeId>4621d847-63e5-410f-8389-552875a22891</xr:TypeId>
+				<xr:ValueId>46a98d9c-4188-42b3-8dfd-acb2964ee0d9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПоступлениеБезналичныхДенежныхСредств</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>59afd471-d060-43ed-bc09-86b5b5a4a65b</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
