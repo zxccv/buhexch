@@ -64,7 +64,9 @@
 			<Language>Русский</Language>
 			<CommonPicture>КоллекцияИзменить</CommonPicture>
 			<CommonModule>ОбменERP_ОбщийМодуль</CommonModule>
+			<CommonModule>УчетТоваров</CommonModule>
 			<HTTPService>ОбменERP_ОбменСERP</HTTPService>
+			<Document>РеализацияТоваровУслуг</Document>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>
 	</Configuration>
