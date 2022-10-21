@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="c834182f-c6e5-4d17-92f1-7430524acc3d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СписаниеБезналичныхДенежныхСредств" category="Object">
+				<xr:TypeId>5876d5b4-2302-4705-9866-4479303ad936</xr:TypeId>
+				<xr:ValueId>01d8edd1-407e-4d11-a35d-f7efa3bade04</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СписаниеБезналичныхДенежныхСредств" category="Ref">
+				<xr:TypeId>5e5fe3f8-0b48-4103-ad8d-ab503590f884</xr:TypeId>
+				<xr:ValueId>5a7a9769-9637-4278-94fb-1e035a9a100f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СписаниеБезналичныхДенежныхСредств" category="Selection">
+				<xr:TypeId>418e957a-d000-4c7e-8884-66855b5276aa</xr:TypeId>
+				<xr:ValueId>1efe3ea5-10b3-492b-9ad9-f5f225560f9a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СписаниеБезналичныхДенежныхСредств" category="List">
+				<xr:TypeId>6f49142b-087e-46fb-bde9-bf9395d6ac6e</xr:TypeId>
+				<xr:ValueId>b7c5d272-0459-4be0-b2fc-1990f4f0ff96</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СписаниеБезналичныхДенежныхСредств" category="Manager">
+				<xr:TypeId>8ec7753d-444a-440d-b873-912b7c6ba321</xr:TypeId>
+				<xr:ValueId>6e9feb75-1a12-455d-b114-54298aa9db1a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>СписаниеБезналичныхДенежныхСредств</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>8502b653-32a8-4d01-a12e-5fe4cede91ef</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
