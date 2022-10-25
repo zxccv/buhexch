@@ -33,6 +33,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.ВидыДоходовНДФЛ</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>ChartOfCharacteristicTypes.СтатьиРасходов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -41,7 +45,19 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.ЦенныеБумаги</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Catalog.ЗарплатныеПроекты</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Catalog.Должности</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -97,6 +113,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.СтатьиРасходовЗарплата</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.УпаковкиЕдиницыИзмерения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -129,6 +149,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.СпособыОкругленияПриРасчетеЗарплаты</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.РеализацияТоваровУслуг</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -146,6 +170,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.Склады</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Catalog.СпособыВыплатыЗарплаты</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -194,7 +222,23 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.НематериальныеАктивы</Metadata>
+  		<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.КлассификаторБанков</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.Валюты</Metadata>
+      <State>Modify</State>
+		</Item>
+    <Item>
+      <Metadata>Catalog.НематериальныеАктивы</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -359,6 +403,30 @@
 		</Item>
 		<Item>
 			<Metadata>Document.РасходныйКассовыйОрдер</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.ВидыДоходовНДФЛ</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.ЗарплатныеПроекты</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.СпособыВыплатыЗарплаты</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.СпособыОкругленияПриРасчетеЗарплаты</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.СтатьиРасходовЗарплата</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.Должности</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>

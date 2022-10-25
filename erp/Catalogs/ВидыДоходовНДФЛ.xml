@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Catalog uuid="29b313fb-693d-4921-8983-ee5db54535f6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыДоходовНДФЛ" category="Object">
+				<xr:TypeId>e2733a56-53a8-4b97-9b8c-17506423df8b</xr:TypeId>
+				<xr:ValueId>61e4634d-ed91-4b12-b9d1-af2dac4a8bc9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыДоходовНДФЛ" category="Ref">
+				<xr:TypeId>a72db3d7-83f7-466e-96b8-3bedc533780f</xr:TypeId>
+				<xr:ValueId>e1c951e6-47fa-48bc-a6cd-889e8bde69ce</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыДоходовНДФЛ" category="Selection">
+				<xr:TypeId>386a75e3-3334-4f51-b72e-201788512f49</xr:TypeId>
+				<xr:ValueId>6e4026ae-4cee-4a68-9849-3faddb47be89</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыДоходовНДФЛ" category="List">
+				<xr:TypeId>93c08eae-f74d-4af0-b4fb-28829756ce6e</xr:TypeId>
+				<xr:ValueId>2cd6011a-6930-47ed-ae5f-2023e0c5833f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыДоходовНДФЛ" category="Manager">
+				<xr:TypeId>518b196a-552d-429d-b695-5d9433cc4e0e</xr:TypeId>
+				<xr:ValueId>02ee2c74-4e04-480a-95c7-1eefab9826b7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыДоходовНДФЛ</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>2dc95a81-d93e-4999-b6fe-84cc0ff02bb7</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

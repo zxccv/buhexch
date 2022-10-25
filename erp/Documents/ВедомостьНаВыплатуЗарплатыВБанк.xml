@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="3c1d0613-7767-4fdf-aab9-6b981d13179e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВедомостьНаВыплатуЗарплатыВБанк" category="Object">
+				<xr:TypeId>bc9cde54-7473-4847-bc29-93b4f78b642b</xr:TypeId>
+				<xr:ValueId>32ed7297-94c9-424e-a906-cdf8188f55ad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВедомостьНаВыплатуЗарплатыВБанк" category="Ref">
+				<xr:TypeId>c413a4bf-aebb-46c7-9ebe-572f33519020</xr:TypeId>
+				<xr:ValueId>53fffa4b-350b-45fe-a7a3-ca2e39a16872</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВедомостьНаВыплатуЗарплатыВБанк" category="Selection">
+				<xr:TypeId>ce789165-119c-4d2d-bcc3-a55dc441f52f</xr:TypeId>
+				<xr:ValueId>9c7527be-d210-4021-8aea-bd29ff8dd9d5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВедомостьНаВыплатуЗарплатыВБанк" category="List">
+				<xr:TypeId>bb4c9e74-a306-406e-8db9-06ad278dca9b</xr:TypeId>
+				<xr:ValueId>00389e03-c50d-47ea-9e76-0b592f5df007</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВедомостьНаВыплатуЗарплатыВБанк" category="Manager">
+				<xr:TypeId>1ff2ff94-700d-4343-ad7a-5b0df4d7d1a6</xr:TypeId>
+				<xr:ValueId>e1973cda-4641-4dd6-b699-b9d5d56d0684</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВедомостьНаВыплатуЗарплатыВБанк</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>d7618923-a1ec-4a06-b44f-02c7f7bd46b6</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
