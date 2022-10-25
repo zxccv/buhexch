@@ -99,6 +99,12 @@
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>ХарактеристикиНоменклатуры</Catalog>
 			<Catalog>ЦенныеБумаги</Catalog>
+			<Catalog>ЗарплатныеПроекты</Catalog>
+			<Catalog>СпособыВыплатыЗарплаты</Catalog>
+			<Catalog>СпособыОкругленияПриРасчетеЗарплаты</Catalog>
+			<Catalog>СтатьиРасходовЗарплата</Catalog>
+			<Catalog>Должности</Catalog>
+			<Catalog>ВидыДоходовНДФЛ</Catalog>
 			<Document>АвансовыйОтчет</Document>
 			<Document>ВзаимозачетЗадолженности</Document>
 			<Document>ВнутреннееПотреблениеТоваров</Document>
@@ -115,6 +121,7 @@
 			<Document>ПоступлениеБезналичныхДенежныхСредств</Document>
 			<Document>РасходныйКассовыйОрдер</Document>
 			<Document>СписаниеБезналичныхДенежныхСредств</Document>
+			<Document>ВедомостьНаВыплатуЗарплатыВБанк</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
