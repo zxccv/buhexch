@@ -123,6 +123,7 @@
 			<Document>СписаниеБезналичныхДенежныхСредств</Document>
 			<Document>ВедомостьНаВыплатуЗарплатыВБанк</Document>
 			<Document>ПередачаТоваровМеждуОрганизациями</Document>
+			<Document>ПересортицаТоваров</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>

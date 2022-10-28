@@ -5,6 +5,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ПересортицаТоваров</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.СтруктураПредприятия</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -210,19 +214,19 @@
 	</Item>
 	<ExtensionProperty>
 		<Item>
-			<Metadata>Catalog.Пользователи</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.АвансовыйОтчет</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
 			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.Пользователи</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.АвансовыйОтчет</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -246,11 +250,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.РеализацияТоваровУслуг</Metadata>
+			<Metadata>Catalog.НематериальныеАктивы</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.НематериальныеАктивы</Metadata>
+			<Metadata>Document.РеализацияТоваровУслуг</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -258,19 +262,19 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.СтруктураПредприятия</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
 			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
+			<Metadata>Catalog.СтруктураПредприятия</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Catalog.Контрагенты</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -306,7 +310,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.Номенклатура</Metadata>
+			<Metadata>Document.НачислениеДивидендов</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -314,7 +318,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.НачислениеДивидендов</Metadata>
+			<Metadata>Catalog.Номенклатура</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -330,11 +334,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.СерверыДокументооборота</Metadata>
+			<Metadata>Catalog.ЦенныеБумаги</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.ЦенныеБумаги</Metadata>
+			<Metadata>Catalog.СерверыДокументооборота</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -354,7 +358,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВозвратТоваровПоставщику</Metadata>
+			<Metadata>Document.ПриходныйКассовыйОрдер</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -362,7 +366,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПриходныйКассовыйОрдер</Metadata>
+			<Metadata>Document.ВозвратТоваровПоставщику</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -370,11 +374,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ОперацияПоПлатежнойКарте</Metadata>
+			<Metadata>Document.ПересортицаТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.ОприходованиеИзлишковТоваров</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ОперацияПоПлатежнойКарте</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -390,11 +398,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.РасходныйКассовыйОрдер</Metadata>
+			<Metadata>Catalog.ВидыДоходовНДФЛ</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.ВидыДоходовНДФЛ</Metadata>
+			<Metadata>Document.РасходныйКассовыйОрдер</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
