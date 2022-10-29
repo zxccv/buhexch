@@ -124,6 +124,7 @@
 			<Document>ВедомостьНаВыплатуЗарплатыВБанк</Document>
 			<Document>ПередачаТоваровМеждуОрганизациями</Document>
 			<Document>ПересортицаТоваров</Document>
+			<Document>ПеремещениеТоваров</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
