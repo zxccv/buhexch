@@ -125,6 +125,8 @@
 			<Document>ПередачаТоваровМеждуОрганизациями</Document>
 			<Document>ПересортицаТоваров</Document>
 			<Document>ПеремещениеТоваров</Document>
+			<Document>КорректировкаРеализации</Document>
+			<Document>ПорчаТоваров</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>

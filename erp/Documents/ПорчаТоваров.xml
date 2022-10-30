@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="e3f5e3fa-0e61-439b-91fb-897585e3e062">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПорчаТоваров" category="Object">
+				<xr:TypeId>c63e7df7-a0cf-4199-a8eb-3eccc3a7bedf</xr:TypeId>
+				<xr:ValueId>f01efe09-9e2b-44ff-b157-a98842de4692</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПорчаТоваров" category="Ref">
+				<xr:TypeId>147c5d6d-7482-4af5-a756-26080a616917</xr:TypeId>
+				<xr:ValueId>18bfcf0c-7724-4850-a7c1-7d1b4cdc3739</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПорчаТоваров" category="Selection">
+				<xr:TypeId>edc27a49-c572-40a5-b488-7f812379a127</xr:TypeId>
+				<xr:ValueId>fd747f83-d21a-47c7-9b22-7a15597429d1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПорчаТоваров" category="List">
+				<xr:TypeId>100c3a0f-d172-4069-b594-74ab35d8338c</xr:TypeId>
+				<xr:ValueId>7173e14a-3969-4682-92de-d2a080467579</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПорчаТоваров" category="Manager">
+				<xr:TypeId>89e06a87-d2fb-4984-9dfe-26e2ac33dd64</xr:TypeId>
+				<xr:ValueId>04e4488d-03ae-4070-b4e5-444ab84fa400</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПорчаТоваров</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>070f093e-d837-4cac-9f64-59cec46c870d</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
