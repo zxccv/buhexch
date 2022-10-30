@@ -67,6 +67,7 @@
 			<CommonModule>УчетТоваров</CommonModule>
 			<HTTPService>ОбменERP_ОбменСERP</HTTPService>
 			<Document>РеализацияТоваровУслуг</Document>
+			<Document>КомплектацияНоменклатуры</Document>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>
 	</Configuration>

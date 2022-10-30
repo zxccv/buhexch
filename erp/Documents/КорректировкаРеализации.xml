@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="e56d0a79-663d-4e1f-bc40-2122392c66a7">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.КорректировкаРеализации" category="Object">
+				<xr:TypeId>5e6c5e7f-a8b5-4366-b7eb-2c105fab14c4</xr:TypeId>
+				<xr:ValueId>f0c889b1-de83-491d-b841-048cd9f15d25</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.КорректировкаРеализации" category="Ref">
+				<xr:TypeId>4e184adc-7300-4904-96b0-97a42b1d6d93</xr:TypeId>
+				<xr:ValueId>eef81d0c-797f-4cd9-83cb-8bae3303d7dd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.КорректировкаРеализации" category="Selection">
+				<xr:TypeId>e20afccf-b669-4f15-8654-26ec88d41e1f</xr:TypeId>
+				<xr:ValueId>7dff0a93-30d8-4630-a2d3-872d1e813326</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.КорректировкаРеализации" category="List">
+				<xr:TypeId>c5bbd35f-2e60-4cf7-8215-739d045d6fa3</xr:TypeId>
+				<xr:ValueId>f5219513-d20b-4367-8e43-96a92c2b08b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.КорректировкаРеализации" category="Manager">
+				<xr:TypeId>0ab6f6ff-794b-4cba-8f50-2876d7cf1229</xr:TypeId>
+				<xr:ValueId>d5d864da-b37b-4782-abbf-ba8755e2f0f1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КорректировкаРеализации</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>69ec59c6-f56d-4522-9097-9fe67516b81d</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
