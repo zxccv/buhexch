@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="8f7dc1da-347b-4a3d-af94-c359ae8e050c">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.МодернизацияОС2_4" category="Object">
+				<xr:TypeId>4ab458de-a781-4a80-aa8b-193fc9b216b3</xr:TypeId>
+				<xr:ValueId>6fa106c5-9905-41e4-8dd3-4d61a7f57306</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.МодернизацияОС2_4" category="Ref">
+				<xr:TypeId>fd562814-2a9a-494d-83d8-bea99c60993a</xr:TypeId>
+				<xr:ValueId>a6c3785c-ea1f-4bab-adaf-56f77a0abf51</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.МодернизацияОС2_4" category="Selection">
+				<xr:TypeId>5d828849-8b48-4971-9b13-e9f19b355b5f</xr:TypeId>
+				<xr:ValueId>c28c9637-fe07-4f5e-8f20-0c18499f3857</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.МодернизацияОС2_4" category="List">
+				<xr:TypeId>363a6d7b-48fc-4a01-8132-6388b008989a</xr:TypeId>
+				<xr:ValueId>283b9805-8901-4a66-a615-1dea0f57b2d9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.МодернизацияОС2_4" category="Manager">
+				<xr:TypeId>20e11212-c5e4-4497-9f45-a4a0786df7cd</xr:TypeId>
+				<xr:ValueId>2f22cbed-a709-4a60-a7b3-c7f93b1ae316</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>МодернизацияОС2_4</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>31b3b0dd-3153-45a5-a24d-7c0e5386d3f9</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
