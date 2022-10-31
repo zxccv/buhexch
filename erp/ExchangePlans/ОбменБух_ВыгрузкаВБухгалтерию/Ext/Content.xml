@@ -45,11 +45,19 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.СписаниеОС2_4</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.ДоговорыАренды</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ПриобретениеУслугПрочихАктивов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -70,6 +78,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.Номенклатура</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ПрочиеДоходыРасходы</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -113,6 +125,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.МодернизацияОС2_4</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.БанковскиеСчетаОрганизаций</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -122,6 +138,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.УпаковкиЕдиницыИзмерения</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ПринятиеКУчетуОС2_4</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -173,6 +193,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ОперацияБух</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ПеремещениеТоваров</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -198,7 +222,7 @@
 	</Item>
 	<Item>
 		<Metadata>Document.ПорчаТоваров</Metadata>
-		<AutoRecord>Allow</AutoRecord>
+		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>Document.КорректировкаРеализации</Metadata>
@@ -298,7 +322,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.СписаниеОС2_4</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>Catalog.Склады</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ОперацияБух</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -319,6 +351,10 @@
 		</Item>
 		<Item>
 			<Metadata>Catalog.УчетныеЗаписиДокументооборота</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ПриобретениеУслугПрочихАктивов</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -447,6 +483,18 @@
 		</Item>
 		<Item>
 			<Metadata>Document.ПорчаТоваров</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.МодернизацияОС2_4</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ПринятиеКУчетуОС2_4</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ПрочиеДоходыРасходы</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>

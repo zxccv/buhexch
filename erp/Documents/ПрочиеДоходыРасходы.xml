@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="5c2c50a1-a337-4a14-8445-6c98e1eb006a">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПрочиеДоходыРасходы" category="Object">
+				<xr:TypeId>d4f6584d-65f8-452f-976d-8cbeba2925e6</xr:TypeId>
+				<xr:ValueId>88a39b91-9911-4304-b9c9-44b424836674</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПрочиеДоходыРасходы" category="Ref">
+				<xr:TypeId>253e83aa-43ce-4c48-bd44-81c2abf3aa72</xr:TypeId>
+				<xr:ValueId>667684d9-d383-4f2b-b8ea-b4e18b24ad69</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПрочиеДоходыРасходы" category="Selection">
+				<xr:TypeId>4ba5d09a-f9b8-4313-9827-60db03b550bd</xr:TypeId>
+				<xr:ValueId>df64ebc3-fa67-4091-85a7-afc5c38dad3c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПрочиеДоходыРасходы" category="List">
+				<xr:TypeId>a7d6ec56-dc73-4495-b5f4-0bf79b71bcee</xr:TypeId>
+				<xr:ValueId>bb029701-32f4-4e51-822e-b2772a39e569</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПрочиеДоходыРасходы" category="Manager">
+				<xr:TypeId>cb259ee2-f697-4abe-aa22-7fd875e9a2b8</xr:TypeId>
+				<xr:ValueId>7658c3d5-bcae-461b-bddf-17637276590c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПрочиеДоходыРасходы</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>59e930f5-213f-4dac-96fa-b6988ca7380e</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
