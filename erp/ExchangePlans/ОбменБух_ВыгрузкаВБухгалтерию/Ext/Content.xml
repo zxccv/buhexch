@@ -141,6 +141,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.СборкаТоваров</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ПринятиеКУчетуОС2_4</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -202,6 +206,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.Склады</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -291,6 +299,10 @@
 		</Item>
 		<Item>
 			<Metadata>Document.РеализацияТоваровУслуг</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -495,6 +507,10 @@
 		</Item>
 		<Item>
 			<Metadata>Document.ПрочиеДоходыРасходы</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.СборкаТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="d73965dd-7143-4537-b638-0499140f89a1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВыкупПринятыхНаХранениеТоваров" category="Object">
+				<xr:TypeId>7da0ff7e-70e6-4430-abf8-e73ee9d91417</xr:TypeId>
+				<xr:ValueId>51cdb25b-7096-478b-b02f-e82d18127494</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВыкупПринятыхНаХранениеТоваров" category="Ref">
+				<xr:TypeId>baf26aab-28b5-40b8-a2e1-b75aebdb7d09</xr:TypeId>
+				<xr:ValueId>44866f7d-b437-44e7-bbb1-07280b19b2a2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВыкупПринятыхНаХранениеТоваров" category="Selection">
+				<xr:TypeId>241501d8-5e2e-488a-b0dc-7989d76a5e24</xr:TypeId>
+				<xr:ValueId>25646d3b-a679-4f2f-aedf-2a1a3fd2990d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВыкупПринятыхНаХранениеТоваров" category="List">
+				<xr:TypeId>67380b0c-3ae6-4ab7-a62e-3317fa5abe34</xr:TypeId>
+				<xr:ValueId>a5ff1628-7dbe-4f36-9ecc-5286f1260ac2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВыкупПринятыхНаХранениеТоваров" category="Manager">
+				<xr:TypeId>8fe3b5c7-cac5-4179-afe7-b8236275baa0</xr:TypeId>
+				<xr:ValueId>bf1a4494-4275-4657-8fa7-53bd3469152a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВыкупПринятыхНаХранениеТоваров</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>623f14da-8031-4584-882f-46a56a6557b9</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

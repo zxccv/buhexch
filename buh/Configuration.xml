@@ -68,6 +68,7 @@
 			<HTTPService>ОбменERP_ОбменСERP</HTTPService>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>КомплектацияНоменклатуры</Document>
+			<Document>КорректировкаПоступления</Document>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>
 	</Configuration>
