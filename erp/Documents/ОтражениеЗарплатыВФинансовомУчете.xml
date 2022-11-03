@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="7304b813-e8ae-4c74-b38b-46c9c5be541d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтражениеЗарплатыВФинансовомУчете" category="Object">
+				<xr:TypeId>e8c985d7-ba83-4b43-9e4e-124ab38cce4a</xr:TypeId>
+				<xr:ValueId>4bb8e119-9fc2-4ea2-95b8-94b7764567ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтражениеЗарплатыВФинансовомУчете" category="Ref">
+				<xr:TypeId>10a9ecbd-c827-4aa4-9ea2-6524b85e68a6</xr:TypeId>
+				<xr:ValueId>3906cdac-26ee-43e3-a0a3-311a98a3cd46</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтражениеЗарплатыВФинансовомУчете" category="Selection">
+				<xr:TypeId>ed6e21c1-7ff4-4ffb-9ae9-c6f5d09a4c0d</xr:TypeId>
+				<xr:ValueId>6b6a38a6-7800-486e-bcbd-845700800c61</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтражениеЗарплатыВФинансовомУчете" category="List">
+				<xr:TypeId>68233988-4cc3-457e-b65a-da8c57a6e10c</xr:TypeId>
+				<xr:ValueId>763c4b2f-9c93-473a-b21a-d145f1c0e14d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтражениеЗарплатыВФинансовомУчете" category="Manager">
+				<xr:TypeId>7521f1a1-cfad-4712-9357-aff30d98a8b6</xr:TypeId>
+				<xr:ValueId>d7b674ab-24b5-4f84-be48-26acc7a97739</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОтражениеЗарплатыВФинансовомУчете</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>f514d009-ea78-4e0f-b979-57cae141a609</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
