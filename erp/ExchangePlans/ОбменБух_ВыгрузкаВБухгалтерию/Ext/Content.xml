@@ -13,6 +13,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ОтчетКомиссионера</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -149,6 +153,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.СборкаТоваров</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ПринятиеКУчетуОС2_4</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -210,6 +218,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.Склады</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -310,7 +322,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПеремещениеТоваров</Metadata>
+			<Metadata>Catalog.НематериальныеАктивы</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -318,11 +330,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
+			<Metadata>Document.ПеремещениеТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -506,7 +522,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.ОтчетКомиссионера</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>Document.ПрочиеДоходыРасходы</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.СборкаТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>
