@@ -135,6 +135,7 @@
 			<Document>ОперацияБух</Document>
 			<Document>СборкаТоваров</Document>
 			<Document>ВыкупПринятыхНаХранениеТоваров</Document>
+			<Document>ОтчетКомиссионера</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>

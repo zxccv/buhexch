@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="0a48d4cc-c513-46f1-a9a9-f9261eb919de">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтчетКомиссионера" category="Object">
+				<xr:TypeId>42380d71-f85f-4a36-a435-e31bf53dd94a</xr:TypeId>
+				<xr:ValueId>0d3b8fc5-c836-488f-a663-edb2cd15d30e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтчетКомиссионера" category="Ref">
+				<xr:TypeId>17f5c483-11cc-4222-a8c0-f30a7e6352d3</xr:TypeId>
+				<xr:ValueId>fed19e2e-b1e4-494f-99c6-7355a1f0c157</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтчетКомиссионера" category="Selection">
+				<xr:TypeId>b516ffc2-c6bc-47d3-8021-67ec797b5f3c</xr:TypeId>
+				<xr:ValueId>42a7dc9c-c32b-4c58-bfcd-4366f45cbd3d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтчетКомиссионера" category="List">
+				<xr:TypeId>1d6b55ea-3701-4b42-a05a-05ee3ce391d7</xr:TypeId>
+				<xr:ValueId>e993ab7c-06a1-4a5e-a136-bc67cb511fa8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтчетКомиссионера" category="Manager">
+				<xr:TypeId>397abd79-fd74-4837-9efd-bbbd10271474</xr:TypeId>
+				<xr:ValueId>19518c30-327e-4152-8249-e4885eb84e7d</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОтчетКомиссионера</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>319b18a1-cc82-48d9-8160-65a0c64d1318</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
