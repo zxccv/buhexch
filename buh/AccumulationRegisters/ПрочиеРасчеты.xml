@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<AccumulationRegister uuid="ebab945f-615a-4479-b188-38545032d170">
+		<InternalInfo>
+			<xr:GeneratedType name="AccumulationRegisterRecord.ПрочиеРасчеты" category="Record">
+				<xr:TypeId>577c23ce-e465-46b4-9713-8537ca8819b3</xr:TypeId>
+				<xr:ValueId>43ef8ae3-2fe9-447d-9174-a55c3a3d0ace</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterManager.ПрочиеРасчеты" category="Manager">
+				<xr:TypeId>4d5352d4-1d21-416c-aa66-de23b000bcd1</xr:TypeId>
+				<xr:ValueId>fef4a9e7-3053-4d4c-ad8f-d1cd1601e31d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterSelection.ПрочиеРасчеты" category="Selection">
+				<xr:TypeId>2ab6eeca-c1ee-4ed4-9342-927ac0c13a7f</xr:TypeId>
+				<xr:ValueId>7e823857-b019-4474-aea8-e647975d84ea</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterList.ПрочиеРасчеты" category="List">
+				<xr:TypeId>f987ecb3-e376-447e-89d4-aa7619774c59</xr:TypeId>
+				<xr:ValueId>0d4d8a99-7420-4b18-8048-eedae951f95f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordSet.ПрочиеРасчеты" category="RecordSet">
+				<xr:TypeId>41fd91fc-8bbd-469e-9e21-8bc38c6322a3</xr:TypeId>
+				<xr:ValueId>f36942fe-37d0-42e6-9b62-587d52a6f635</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordKey.ПрочиеРасчеты" category="RecordKey">
+				<xr:TypeId>16af3c25-ab49-4a6d-bcd5-b8e971031de9</xr:TypeId>
+				<xr:ValueId>ce2e85a4-d213-48ad-8b77-f1745e9f4d74</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПрочиеРасчеты</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>1c85dc6f-4cc9-43a3-a88d-4ee81681e6cb</ExtendedConfigurationObject>
+			<RegisterType>Balance</RegisterType>
+		</Properties>
+		<ChildObjects/>
+	</AccumulationRegister>
+</MetaDataObject>
