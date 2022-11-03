@@ -105,6 +105,7 @@
 			<Catalog>СтатьиРасходовЗарплата</Catalog>
 			<Catalog>Должности</Catalog>
 			<Catalog>ВидыДоходовНДФЛ</Catalog>
+			<Catalog>СпособыОтраженияЗарплатыВБухУчете</Catalog>
 			<Document>АвансовыйОтчет</Document>
 			<Document>ВзаимозачетЗадолженности</Document>
 			<Document>ВнутреннееПотреблениеТоваров</Document>
@@ -133,6 +134,7 @@
 			<Document>ПриобретениеУслугПрочихАктивов</Document>
 			<Document>ПрочиеДоходыРасходы</Document>
 			<Document>ОперацияБух</Document>
+			<Document>ОтражениеЗарплатыВФинансовомУчете</Document>
 			<Document>СборкаТоваров</Document>
 			<Document>ВыкупПринятыхНаХранениеТоваров</Document>
 			<Document>ОтчетКомиссионера</Document>

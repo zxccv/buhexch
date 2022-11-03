@@ -101,6 +101,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ОтражениеЗарплатыВФинансовомУчете</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.КорректировкаПриобретения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -142,6 +146,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.УпаковкиЕдиницыИзмерения</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Catalog.СпособыОтраженияЗарплатыВБухУчете</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -270,11 +278,19 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
+			<Metadata>Document.ОтражениеЗарплатыВФинансовомУчете</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -298,10 +314,6 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
 			<Metadata>Document.РеализацияТоваровУслуг</Metadata>
 			<State>Modify</State>
 		</Item>
@@ -314,7 +326,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПеремещениеТоваров</Metadata>
+			<Metadata>Catalog.НематериальныеАктивы</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -322,11 +334,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
+			<Metadata>Document.ПеремещениеТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
