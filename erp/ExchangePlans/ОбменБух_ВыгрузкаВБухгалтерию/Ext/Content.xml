@@ -286,6 +286,10 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
 			<State>Modify</State>
 		</Item>
