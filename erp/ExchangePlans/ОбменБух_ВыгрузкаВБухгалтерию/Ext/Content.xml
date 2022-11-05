@@ -49,6 +49,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.РаспределениеРасходовБудущихПериодов</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.СписаниеОС2_4</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -122,6 +126,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.ФизическиеЛица</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ОтчетБанкаПоОперациямЭквайринга</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -290,6 +298,14 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.ВзаимозачетЗадолженности</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.КорректировкаПриобретения</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>Catalog.КлассификаторБанков</Metadata>
 			<State>Modify</State>
 		</Item>
@@ -299,14 +315,6 @@
 		</Item>
 		<Item>
 			<Metadata>Catalog.Валюты</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.ВзаимозачетЗадолженности</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.КорректировкаПриобретения</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -474,6 +482,10 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.ОтчетБанкаПоОперациямЭквайринга</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>Document.ПоступлениеБезналичныхДенежныхСредств</Metadata>
 			<State>Modify</State>
 		</Item>
@@ -531,6 +543,10 @@
 		</Item>
 		<Item>
 			<Metadata>Document.СборкаТоваров</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.РаспределениеРасходовБудущихПериодов</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>

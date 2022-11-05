@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="8428acb4-2540-43ab-835c-6cc09e354830">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОтчетБанкаПоОперациямЭквайринга" category="Object">
+				<xr:TypeId>06aa71c8-8f38-4be7-9b58-e6372501dbb2</xr:TypeId>
+				<xr:ValueId>676a8455-b6da-4ba7-8722-36bbd8dbfeba</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОтчетБанкаПоОперациямЭквайринга" category="Ref">
+				<xr:TypeId>f4ba1547-b569-48e9-9c6a-3a1eaedc38f9</xr:TypeId>
+				<xr:ValueId>b9904a06-c7e5-4375-b8d7-fb99c96f6c06</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОтчетБанкаПоОперациямЭквайринга" category="Selection">
+				<xr:TypeId>c34549fc-03e7-4f23-8bb2-64d7f9ba6838</xr:TypeId>
+				<xr:ValueId>bb01b804-aefd-477f-a42d-0cdbeef36693</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОтчетБанкаПоОперациямЭквайринга" category="List">
+				<xr:TypeId>07b56e32-39d2-401e-a003-3908edc85fa9</xr:TypeId>
+				<xr:ValueId>0d6704ac-7faf-4b2d-a102-776cb8941aa7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОтчетБанкаПоОперациямЭквайринга" category="Manager">
+				<xr:TypeId>d0a1105e-fa2d-41f8-9ecf-c779a52e5fae</xr:TypeId>
+				<xr:ValueId>ef616204-b229-492f-bf74-e25001b2709f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ОтчетБанкаПоОперациямЭквайринга</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>10cefb2f-fb51-481f-87d1-cb8d023dd564</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
