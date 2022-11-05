@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="30192540-e492-4786-8a76-3a499585a007">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РаспределениеРасходовБудущихПериодов" category="Object">
+				<xr:TypeId>0d9a6635-47ba-4a98-b1d6-c71c368660aa</xr:TypeId>
+				<xr:ValueId>0679d5f1-4a03-45d3-a52b-7d9931358835</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РаспределениеРасходовБудущихПериодов" category="Ref">
+				<xr:TypeId>bf2e0609-d914-4fad-9c41-e403054a070b</xr:TypeId>
+				<xr:ValueId>720a7de3-70e1-44ac-b217-abb3d244cb0b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РаспределениеРасходовБудущихПериодов" category="Selection">
+				<xr:TypeId>67a4b857-6cbe-426f-968e-be64b1a2b321</xr:TypeId>
+				<xr:ValueId>8e38b834-ef10-44c8-a951-c3c848b6148b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РаспределениеРасходовБудущихПериодов" category="List">
+				<xr:TypeId>1c5e3271-a7de-441c-b46b-d08f9f9572b1</xr:TypeId>
+				<xr:ValueId>a44168d8-61d6-4ae5-94b8-669168d2c317</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РаспределениеРасходовБудущихПериодов" category="Manager">
+				<xr:TypeId>937615dc-7235-4e3c-ae71-956eb97e9f23</xr:TypeId>
+				<xr:ValueId>554aaeca-087b-4bba-a5c6-82a05f55f023</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>РаспределениеРасходовБудущихПериодов</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>6fc9de54-3141-4852-9cb8-c1be947c406a</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
