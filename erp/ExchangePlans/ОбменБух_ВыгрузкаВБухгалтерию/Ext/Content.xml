@@ -149,11 +149,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.СпособыОтраженияЗарплатыВБухУчете</Metadata>
+		<Metadata>Document.СборкаТоваров</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Document.СборкаТоваров</Metadata>
+		<Metadata>Catalog.СпособыОтраженияЗарплатыВБухУчете</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -286,11 +286,19 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
+			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
+			<Metadata>Catalog.КлассификаторБанков</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ПередачаТоваровМеждуОрганизациями</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.Валюты</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -302,15 +310,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.КлассификаторБанков</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Catalog.Валюты</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.ПередачаТоваровМеждуОрганизациями</Metadata>
+			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -326,7 +326,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.НематериальныеАктивы</Metadata>
+			<Metadata>Document.ПеремещениеТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -334,15 +334,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПеремещениеТоваров</Metadata>
+			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.ВозвратТоваровОтКлиента</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
