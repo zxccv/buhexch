@@ -129,6 +129,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.КорректировкаЗадолженности</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ОтчетБанкаПоОперациямЭквайринга</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -194,6 +198,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.СтраныМира</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ПоступлениеУслугПоАренде</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -547,6 +555,14 @@
 		</Item>
 		<Item>
 			<Metadata>Document.РаспределениеРасходовБудущихПериодов</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.КорректировкаЗадолженности</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ПоступлениеУслугПоАренде</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>
