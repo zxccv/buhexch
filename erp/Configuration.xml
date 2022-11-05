@@ -140,6 +140,8 @@
 			<Document>ОтчетКомиссионера</Document>
 			<Document>ОтчетБанкаПоОперациямЭквайринга</Document>
 			<Document>РаспределениеРасходовБудущихПериодов</Document>
+			<Document>КорректировкаЗадолженности</Document>
+			<Document>ПоступлениеУслугПоАренде</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>

@@ -69,6 +69,7 @@
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>КомплектацияНоменклатуры</Document>
 			<Document>КорректировкаПоступления</Document>
+			<Document>СчетФактураВыданный</Document>
 			<AccumulationRegister>ПрочиеРасчеты</AccumulationRegister>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>
