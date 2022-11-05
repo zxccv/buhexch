@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="be866a6b-4d2e-4bde-bcd0-a9d72fb858f1">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПоступлениеУслугПоАренде" category="Object">
+				<xr:TypeId>602bbb84-6af1-409d-ab82-1888690da08c</xr:TypeId>
+				<xr:ValueId>e8f10877-2db8-46b8-bac5-bd9a17f3099c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПоступлениеУслугПоАренде" category="Ref">
+				<xr:TypeId>57292b6c-1164-425e-9671-c927593696fe</xr:TypeId>
+				<xr:ValueId>ebdbd38c-0d8f-4758-a380-217a9e48770b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеУслугПоАренде" category="Selection">
+				<xr:TypeId>d47ccf3e-9fdd-4850-bcf0-ed0e95bcaf8b</xr:TypeId>
+				<xr:ValueId>f3430d3a-377e-4f88-af11-735213f80c01</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПоступлениеУслугПоАренде" category="List">
+				<xr:TypeId>7e7212d0-2f7d-4ee0-b494-22acea035cc2</xr:TypeId>
+				<xr:ValueId>9f0f9077-3cca-4ae9-96d6-37d57406afdf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПоступлениеУслугПоАренде" category="Manager">
+				<xr:TypeId>a1415d40-55aa-4672-b880-9a72f9a933e9</xr:TypeId>
+				<xr:ValueId>b70877d3-e4a4-4674-bbda-775bbc9b6f11</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПоступлениеУслугПоАренде</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>d7ce1807-a660-4a56-a35f-7410c2a562a7</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
