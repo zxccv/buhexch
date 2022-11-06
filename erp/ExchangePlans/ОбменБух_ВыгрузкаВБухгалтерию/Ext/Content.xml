@@ -306,24 +306,16 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.КлассификаторБанков</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.ПередачаТоваровМеждуОрганизациями</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Catalog.Валюты</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
 			<Metadata>Document.ВзаимозачетЗадолженности</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.КорректировкаПриобретения</Metadata>
-      <State>Modify</State>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Catalog.КлассификаторБанков</Metadata>
+			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.ПередачаТоваровМеждуОрганизациями</Metadata>
