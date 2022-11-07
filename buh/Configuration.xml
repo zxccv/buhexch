@@ -70,6 +70,7 @@
 			<Document>КомплектацияНоменклатуры</Document>
 			<Document>КорректировкаПоступления</Document>
 			<Document>СчетФактураВыданный</Document>
+			<DataProcessor>РегистрацияСчетовФактурНаАванс</DataProcessor>
 			<AccumulationRegister>ПрочиеРасчеты</AccumulationRegister>
 			<AccountingRegister>Хозрасчетный</AccountingRegister>
 		</ChildObjects>
