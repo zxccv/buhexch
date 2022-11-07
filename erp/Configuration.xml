@@ -67,6 +67,7 @@
 			<Language>Русский</Language>
 			<Role>ОбменБух_ОсновнаяРоль</Role>
 			<CommonModule>ОбменБух_СерверныеПроцедуры</CommonModule>
+			<CommonModule>РеглУчетПроведениеСервер</CommonModule>
 			<ExchangePlan>ОбменБух_ВыгрузкаВБухгалтерию</ExchangePlan>
 			<EventSubscription>ОбменБух_ПриЗаписиДокумента</EventSubscription>
 			<EventSubscription>ОбменБух_ПриЗаписиСправочника</EventSubscription>
