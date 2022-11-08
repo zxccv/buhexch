@@ -77,6 +77,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.НачислениеОценочныхОбязательствПоОтпускам</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.Должности</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -273,6 +277,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.НачислениеСписаниеРезервовПоСомнительнымДолгам</Metadata>
+		<AutoRecord>Deny</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.НалоговыеОрганы</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -286,11 +294,7 @@
 	</Item>
 	<ExtensionProperty>
 		<Item>
-			<Metadata>Catalog.Пользователи</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.АвансовыйОтчет</Metadata>
+			<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -298,11 +302,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВедомостьНаВыплатуЗарплатыВБанк</Metadata>
+			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>ChartOfAccounts.Хозрасчетный</Metadata>
+			<Metadata>Catalog.Пользователи</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.АвансовыйОтчет</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -326,7 +334,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
+			<Metadata>Catalog.НематериальныеАктивы</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -334,11 +342,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.НематериальныеАктивы</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Catalog.Организации</Metadata>
+			<Metadata>Document.ВыкупПринятыхНаХранениеТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -346,7 +350,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.СтруктураПредприятия</Metadata>
+			<Metadata>Catalog.Организации</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -354,7 +358,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
+			<Metadata>Catalog.СтруктураПредприятия</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -362,11 +366,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
+			<Metadata>Document.СписаниеБезналичныхДенежныхСредств</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
 			<Metadata>Catalog.ФизическиеЛица</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ОперацияБух</Metadata>
+			<Metadata>Document.СписаниеОС2_4</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -374,7 +382,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.СписаниеОС2_4</Metadata>
+			<Metadata>Document.ОперацияБух</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -394,11 +402,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПриобретениеУслугПрочихАктивов</Metadata>
+			<Metadata>Catalog.УчетныеЗаписиДокументооборота</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.УчетныеЗаписиДокументооборота</Metadata>
+			<Metadata>Document.ПриобретениеУслугПрочихАктивов</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -406,7 +414,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.Номенклатура</Metadata>
+			<Metadata>Document.НачислениеДивидендов</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -414,7 +422,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.НачислениеДивидендов</Metadata>
+			<Metadata>Catalog.Номенклатура</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -430,11 +438,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.СерверыДокументооборота</Metadata>
+			<Metadata>Catalog.ЦенныеБумаги</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.ЦенныеБумаги</Metadata>
+			<Metadata>Catalog.СерверыДокументооборота</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -454,7 +462,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ВозвратТоваровПоставщику</Metadata>
+			<Metadata>Document.ПриходныйКассовыйОрдер</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -462,11 +470,7 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПриходныйКассовыйОрдер</Metadata>
-			<State>Modify</State>
-		</Item>
-		<Item>
-			<Metadata>Document.ПересортицаТоваров</Metadata>
+			<Metadata>Document.ВозвратТоваровПоставщику</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -474,11 +478,15 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ОперацияПоПлатежнойКарте</Metadata>
+			<Metadata>Document.ПересортицаТоваров</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
 			<Metadata>Document.ОприходованиеИзлишковТоваров</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.ОперацияПоПлатежнойКарте</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -498,11 +506,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.РасходныйКассовыйОрдер</Metadata>
+			<Metadata>Catalog.ВидыДоходовНДФЛ</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Catalog.ВидыДоходовНДФЛ</Metadata>
+			<Metadata>Document.РасходныйКассовыйОрдер</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -538,11 +546,11 @@
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ПринятиеКУчетуОС2_4</Metadata>
+			<Metadata>Document.ОтчетКомиссионера</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
-			<Metadata>Document.ОтчетКомиссионера</Metadata>
+			<Metadata>Document.ПринятиеКУчетуОС2_4</Metadata>
 			<State>Modify</State>
 		</Item>
 		<Item>
@@ -563,6 +571,14 @@
 		</Item>
 		<Item>
 			<Metadata>Document.ПоступлениеУслугПоАренде</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.НачислениеСписаниеРезервовПоСомнительнымДолгам</Metadata>
+			<State>Modify</State>
+		</Item>
+		<Item>
+			<Metadata>Document.НачислениеОценочныхОбязательствПоОтпускам</Metadata>
 			<State>Modify</State>
 		</Item>
 	</ExtensionProperty>

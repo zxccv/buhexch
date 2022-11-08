@@ -143,6 +143,8 @@
 			<Document>РаспределениеРасходовБудущихПериодов</Document>
 			<Document>КорректировкаЗадолженности</Document>
 			<Document>ПоступлениеУслугПоАренде</Document>
+			<Document>НачислениеСписаниеРезервовПоСомнительнымДолгам</Document>
+			<Document>НачислениеОценочныхОбязательствПоОтпускам</Document>
 			<InformationRegister>ОбменБух_ОтправкаДанных</InformationRegister>
 			<AccumulationRegister>ТоварыОрганизаций</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиРасходов</ChartOfCharacteristicTypes>
