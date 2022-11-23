@@ -65,6 +65,7 @@
 			<CommonPicture>КоллекцияИзменить</CommonPicture>
 			<CommonModule>ОбменERP_ОбщийМодуль</CommonModule>
 			<CommonModule>УчетТоваров</CommonModule>
+			<CommonModule>СчетаУчетаВДокументах</CommonModule>
 			<HTTPService>ОбменERP_ОбменСERP</HTTPService>
 			<Document>РеализацияТоваровУслуг</Document>
 			<Document>КомплектацияНоменклатуры</Document>

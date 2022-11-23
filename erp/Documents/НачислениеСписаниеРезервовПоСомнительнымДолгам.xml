@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
+	<Document uuid="ef43372b-6c82-478f-aee4-4d816af1deeb">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.НачислениеСписаниеРезервовПоСомнительнымДолгам" category="Object">
+				<xr:TypeId>b1e5d30b-1242-4b5d-91be-e585003f0178</xr:TypeId>
+				<xr:ValueId>7ea81ebd-d88f-4665-a58e-d0ad50c4708c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.НачислениеСписаниеРезервовПоСомнительнымДолгам" category="Ref">
+				<xr:TypeId>4c1c51c7-a31d-402a-9025-ddd7ef2842eb</xr:TypeId>
+				<xr:ValueId>3a756261-3f92-47be-80f3-cfe8bcff7ec1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.НачислениеСписаниеРезервовПоСомнительнымДолгам" category="Selection">
+				<xr:TypeId>78e1353f-d682-4805-b5a2-d14a01aae4fd</xr:TypeId>
+				<xr:ValueId>8ceb1a37-f1bf-47d2-b057-c0762da795cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.НачислениеСписаниеРезервовПоСомнительнымДолгам" category="List">
+				<xr:TypeId>a0684a96-45e7-4b7d-8456-ee06da0cc45d</xr:TypeId>
+				<xr:ValueId>45acaa42-28d8-4518-a76c-7fad6597ac59</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.НачислениеСписаниеРезервовПоСомнительнымДолгам" category="Manager">
+				<xr:TypeId>819f5a81-6403-462d-a803-1076f64764a9</xr:TypeId>
+				<xr:ValueId>8951c8a8-f53f-409b-a2f1-f09af69fc5d7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>НачислениеСписаниеРезервовПоСомнительнымДолгам</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>dedaaa62-de9a-4eda-be5e-0973400eb1b6</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>
